@@ -1,0 +1,15 @@
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\bin\Debug\net7.0\Zakladpracy.exe
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\bin\Debug\net7.0\Zakladpracy.deps.json
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\bin\Debug\net7.0\Zakladpracy.runtimeconfig.json
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\bin\Debug\net7.0\Zakladpracy.dll
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\bin\Debug\net7.0\Zakladpracy.pdb
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.csproj.AssemblyReference.cache
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.AssemblyInfoInputs.cache
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.AssemblyInfo.cs
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.csproj.CoreCompileInputs.cache
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.dll
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\refint\Zakladpracy.dll
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.pdb
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\Zakladpracy.genruntimeconfig.cache
+C:\Users\jjedrzejczak\Desktop\ZakladPracy\Zakladpracy\Zakladpracy\obj\Debug\net7.0\ref\Zakladpracy.dll
